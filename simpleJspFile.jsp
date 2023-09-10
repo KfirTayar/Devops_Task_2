@@ -8,13 +8,13 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            background-color: #000000;
             margin: 0;
             padding: 0;
         }
 
         header {
-            background-color: #111;
+            background-color: #333;
             color: #fff;
             text-align: center;
             padding: 1em 0;
