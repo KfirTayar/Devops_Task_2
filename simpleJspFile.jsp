@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-<head> {{{{{{{{
+<head> 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DevOps Page</title>
@@ -47,7 +47,7 @@
     <div class="container">
         <p>
             DevOps is a set of practices that aims to automate and integrate the processes of software development (Dev) and IT operations (Ops).
-        </p>
+        
         <p>
             It emphasizes collaboration, communication, and automation throughout the software development lifecycle, from planning and coding to building, testing, and releasing, and then to deployment and infrastructure management.
         </p>
