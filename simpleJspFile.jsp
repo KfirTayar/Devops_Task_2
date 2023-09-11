@@ -45,11 +45,6 @@
         <h1>Welcome to the DevOps World</h1>
     </header>
     <div class="container">
-        <%
-            // Intentional error: Use an undefined variable
-            String undefinedVariable = null;
-            undefinedVariable.toString();
-        %>
         <p>
             DevOps is a set of practices that aims to automate and integrate the processes of software development (Dev) and IT operations (Ops).
         </p>
